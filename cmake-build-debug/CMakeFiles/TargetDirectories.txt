@@ -1,0 +1,3 @@
+/Users/ladmin/Desktop/Projects/UniversityToCSV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ladmin/Desktop/Projects/UniversityToCSV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ladmin/Desktop/Projects/UniversityToCSV/cmake-build-debug/CMakeFiles/UniversityToCSV.dir
